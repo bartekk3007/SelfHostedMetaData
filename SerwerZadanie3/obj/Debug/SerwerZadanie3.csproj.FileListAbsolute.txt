@@ -1,0 +1,9 @@
+C:\Users\48571\OneDrive\Pulpit\COMLab4\WCFLab1\SerwerZadanie3\bin\Debug\SerwerZadanie3.exe.config
+C:\Users\48571\OneDrive\Pulpit\COMLab4\WCFLab1\SerwerZadanie3\bin\Debug\SerwerZadanie3.exe
+C:\Users\48571\OneDrive\Pulpit\COMLab4\WCFLab1\SerwerZadanie3\bin\Debug\SerwerZadanie3.pdb
+C:\Users\48571\OneDrive\Pulpit\COMLab4\WCFLab1\SerwerZadanie3\bin\Debug\KSR_WCF1.dll
+C:\Users\48571\OneDrive\Pulpit\COMLab4\WCFLab1\SerwerZadanie3\obj\Debug\SerwerZadanie3.csproj.AssemblyReference.cache
+C:\Users\48571\OneDrive\Pulpit\COMLab4\WCFLab1\SerwerZadanie3\obj\Debug\SerwerZadanie3.csproj.CoreCompileInputs.cache
+C:\Users\48571\OneDrive\Pulpit\COMLab4\WCFLab1\SerwerZadanie3\obj\Debug\SerwerZa.6CCCBC2A.Up2Date
+C:\Users\48571\OneDrive\Pulpit\COMLab4\WCFLab1\SerwerZadanie3\obj\Debug\SerwerZadanie3.exe
+C:\Users\48571\OneDrive\Pulpit\COMLab4\WCFLab1\SerwerZadanie3\obj\Debug\SerwerZadanie3.pdb
